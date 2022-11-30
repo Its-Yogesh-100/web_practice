@@ -6,18 +6,21 @@
 .pp{
     
     margin-left: 20%;
-    padding-left: 25px;
+    margin-top: 10%;
+    margin-right: 20%;
     background-color: rgb(46, 56, 59);
-    height: 400px;
-    padding-left: 10%;
-    width: 1000px;
-    padding-top: 10%;
+    height: 280px;
+    width: 500px;
+    padding-top: 5%;
+    padding-left: 2%;
+    
+
+    border-radius: 10%;
 }
 
 .ww{
 
     font-size: 25px;   font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-right: 2px;
     text-align: center;
     color: yellow;
 }
@@ -36,3 +39,19 @@ input[type=text],input[type=password]{
     padding: 10px;
 }
 
+.button{
+    
+    margin-top: 5%;
+    height: 50px;
+    width: 50%;
+    align-items: center;
+    border-radius: 10px;
+    background-color: tomato;
+    box-sizing: border-box;
+    align:center;
+}
+
+.button:hover{
+    background-color: red;
+    position: absolute;
+}
