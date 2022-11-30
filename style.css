@@ -1,0 +1,38 @@
+.body{
+    background-color: rgb(27, 23, 24);
+    padding: 25px;
+}
+
+.pp{
+    
+    margin-left: 20%;
+    padding-left: 25px;
+    background-color: rgb(46, 56, 59);
+    height: 400px;
+    padding-left: 10%;
+    width: 1000px;
+    padding-top: 10%;
+}
+
+.ww{
+
+    font-size: 25px;   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 2px;
+    text-align: center;
+    color: yellow;
+}
+
+.bb{
+    height: 30px;
+    border: solid 4px red;
+    border-radius: 20px;
+    color: white;
+    
+}
+
+input[type=text],input[type=password]{
+    width: 50%;
+    margin: 8px 0;
+    padding: 10px;
+}
+
