@@ -37,6 +37,7 @@ input[type=text],input[type=password]{
     width: 50%;
     margin: 8px 0;
     padding: 10px;
+    font-size: larger;
 }
 
 .button{
@@ -54,4 +55,6 @@ input[type=text],input[type=password]{
 .button:hover{
     background-color: red;
     position: absolute;
+    z-index: 10;
+
 }
